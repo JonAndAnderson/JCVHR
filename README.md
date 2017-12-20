@@ -1,1 +1,1 @@
-This is a bootstrap site I put together for a friend of mine.
+First real bootstrap site created using a Bootstrap theme. Learned a bunch from it.
